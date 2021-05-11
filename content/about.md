@@ -7,7 +7,7 @@ I am a software developer with a passion for
 
 - Python
 - Linux
-- open-source
+- Open Source
 
 I spend a good amount of my spare time
 
