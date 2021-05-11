@@ -19,7 +19,7 @@ socialIcons = [
 # Configure the home page
 [params.profileMode]
 enabled = true
-title = "Hi, I'm Jürgen."
+title = "Hi, my name is Jürgen."
 subtitle = "Say hello to me at various places on the internet."
 
 
