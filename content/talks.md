@@ -42,6 +42,12 @@ July 2020
   ([Info](https://www.meetup.com/en-AU/pythonireland/events/271602841/))
   ([Video](https://www.youtube.com/watch?v=Fxkco-gS4S8))
 
+April 2020
+: **Virtual Python Camp Cologne** - In "to make out like a bandit" I spoke about
+  how to use `bandit` to check the source code of Python applications for security issues.  
+  ([Info](https://barcamps.eu/pycampcologne2020/))
+  ([Slides](/data/bandit.slides.pdf))
+
 December 2019
 : **Google Developer Group Regensburg** - In "Am I Famous?" I spoke about how to query the GitHub 
   GraphQL API in order to
