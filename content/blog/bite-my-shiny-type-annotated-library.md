@@ -104,14 +104,10 @@ your_package = py.typed
 
 ### poetry
 
-If you are into `poetry`...
+If you are into `poetry`, there is great news.
 
-```toml
-[tool.poetry]
-packages = [
-  {include = "your_package/py.typed"},
-]
-```
+Poetry actually includes everything that’s part of the package source tree in your distribution,
+so py.typed is included out-of-the-box, no configuration needed.
 
 ### flit
 
@@ -126,3 +122,11 @@ I want to end this journey into the depths of Python packaging with the famous w
 
 (Translation: When you start doing it the right way, it will eventually work out.)
 
+## Updates
+
+**2020.05.12**
+- [David Lukeš](https://dlukes.github.io/) reported a problem with the `poetry` section.
+  Previously, it included an even wrong configuration snippet.
+  Good news!
+  Poetry automatically packages the files in the source tree of the package.
+  Thanks so much for your feedback!
