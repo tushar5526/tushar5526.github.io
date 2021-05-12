@@ -111,8 +111,8 @@ so py.typed is included out-of-the-box, no configuration needed.
 
 ### flit
 
-No clue. Do you know? Drop me a line via email or twitter,
-contact details see https://jugmac00.github.io
+The same is true for `flit`!
+Just create `py.typed` and add it to your git repository.
 
 ## Conclusion
 
@@ -130,3 +130,6 @@ I want to end this journey into the depths of Python packaging with the famous w
   Good news!
   Poetry automatically packages the files in the source tree of the package.
   Thanks so much for your feedback!
+- After David reported how `poetry` packages files,
+  I really wanted to know how `flit` is doing this.
+  So I created a package with `flit` and updated the blog post with my findings.
