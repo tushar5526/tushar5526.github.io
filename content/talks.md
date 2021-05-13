@@ -13,6 +13,10 @@ May 2021
 : **PyCon US** - to be announced!  
   ([Info](https://us.pycon.org/2021/events/lightning-talks/))
 
+May 2021
+: **Python Ireland** - topic will be revealed after PyCon US.  
+  ([Info](https://www.meetup.com/pythonireland/events/kqwjvrycchbqb/))
+
 April 2021
 : **World Plone Day** - In "Testing the tox4 Pre-Release at Plone-/Zope-Scale" I spoke about
   applying the tox pre-release on more than 300 Zope and dozens of Plone repositories.  
