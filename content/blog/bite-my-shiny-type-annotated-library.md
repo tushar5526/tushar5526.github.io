@@ -107,7 +107,7 @@ your_package = py.typed
 If you are into `poetry`, there is great news.
 
 Poetry actually includes everything that’s part of the package source tree in your distribution,
-so py.typed is included out-of-the-box, no configuration needed.
+so `py.typed` is included out-of-the-box, no configuration needed.
 
 ### flit
 
