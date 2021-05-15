@@ -10,12 +10,18 @@ I want to thank both the **Google Developer Group** in Regensburg and
 **Python Ireland** for giving me a chance to become a more experienced speaker.
 
 May 2021
-: **PyCon US** - to be announced!  
+: **PyCon US** - In "How to Maintain Many, Many, Many, Many... Many Git Repositories?!"
+  I walk through the amazing `all-repos` command line app, and show how to search and grep
+  in many repositories, and finally, how to apply changes to all of them.  
   ([Info](https://us.pycon.org/2021/events/lightning-talks/))
+  ([Slides](/data/many.many.repos.slides.pdf))
 
 May 2021
-: **Python Ireland** - topic will be revealed after PyCon US.  
+: **Python Ireland** - In "How to Maintain Many, Many, Many, Many... Many Git Repositories?!"
+  I walk through the amazing `all-repos` command line app, and show how to search and grep
+  in many repositories, and finally, how to apply changes to all of them.  
   ([Info](https://www.meetup.com/pythonireland/events/kqwjvrycchbqb/))
+  ([Slides](/data/many.many.repos.slides.pdf))
 
 April 2021
 : **World Plone Day** - In "Testing the tox4 Pre-Release at Plone-/Zope-Scale" I spoke about
