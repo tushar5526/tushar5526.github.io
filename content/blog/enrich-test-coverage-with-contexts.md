@@ -25,6 +25,8 @@ this is no longer easy to find out.
 Sure, you can set a breakpoint and run your tests
 and wait until the breakpoint has been hit.
 
+But this is pretty cumbersome.
+
 ## Why?
 
 Before we try to find a better way,
