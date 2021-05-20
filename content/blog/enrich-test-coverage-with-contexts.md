@@ -60,8 +60,8 @@ of [Coverage.py](https://coverage.readthedocs.io/en/v4.5.x/index.html) you can r
 Mostly, I use `pytest-cov`, which is an integration of `coverage` and `pytest`.
 
 In order to activate `contexts` I have to
-- add a directive to record context
-- add a directive to show context
+- add a directive to record contexts
+- add a directive to show contexts
 
 In my configuration file, e.g. `tox.ini`, I add
 
