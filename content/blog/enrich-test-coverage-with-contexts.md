@@ -106,7 +106,8 @@ Today, we learned how to get more information out of the coverage report.
 Do you already use this feature? What are your reasons?
 Or do you have anything else to comment on this blog post?
 
-Drop me a line! Contact details see https://jugmac00.github.io/.
+Drop me a line!
+You can find my contact details at https://jugmac00.github.io/.
 
 ## Thank you
 
