@@ -1,5 +1,5 @@
 ---
-title: "How to Find All Repositories in a GitHub Organization Which Do Not Follow the Src Layout"
+title: "How to Find All Repositories in a GitHub Organization Which Do Not Follow the Src Layout?"
 date: 2021-03-05T10:49:56+02:00
 tags:
 - all-repos
