@@ -4,7 +4,6 @@ date: 2021-05-22T14:02:09+02:00
 tags:
 - python
 - comprehensions
-hideSummary: true
 ---
 
 ## Python 2

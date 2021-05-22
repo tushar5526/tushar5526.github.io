@@ -5,7 +5,6 @@ tags:
 - zope
 - all-repos
 - pypy
-hideSummary: true
 ---
 
 Today, Johannes Raggam asked on the [Plone/Zope community forum](https://community.plone.org/t/zope-plone-on-pypy/13726)
