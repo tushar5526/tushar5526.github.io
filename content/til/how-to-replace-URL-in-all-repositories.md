@@ -1,5 +1,5 @@
 ---
-title: "How to Replace URL in All Repositories"
+title: "How to Replace an URL in All Repositories"
 date: 2021-04-06T11:22:11+02:00
 tags:
 - all-repos
