@@ -17,7 +17,7 @@ I can certainly grep the almost 300 Zope repositories for signs of `PyPy` suppor
 
 The best sign of `PyPy` support is IMHO that we run tests for it :-)
 
-In order to grep in all repositories I use [all-repos](https://github.com/asottile/all-repos) by Anthony Sottile.
+In order to grep in all repositories I use [all-repos](https://github.com/asottile/all-repos) written by Anthony Sottile.
 
 A naive attempt would something like this...
 
