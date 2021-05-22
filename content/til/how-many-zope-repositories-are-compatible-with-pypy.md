@@ -61,7 +61,7 @@ I am pretty surprised that so many repositories support `PyPy`!
 In order to judge this number,
 let's see how many active repositories are there in total?
 
-```
+```bash
 ❯ all-repos-list-repos -C all-repos-zope.json | wc -l
 287
 ```
