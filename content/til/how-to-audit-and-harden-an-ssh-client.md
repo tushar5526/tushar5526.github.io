@@ -7,7 +7,7 @@ tags:
 - audit
 ---
 
-You probably know how to harden a SSH server,
+You probably know how to harden an SSH server,
 or at least heard of it.
 
 e.g. do not offer weak ciphers, or do not allow root login...
