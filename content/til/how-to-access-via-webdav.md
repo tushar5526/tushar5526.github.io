@@ -2,8 +2,8 @@
 title: "How to Access via WebDav"
 date: 2020-10-09T13:26:36+02:00
 tags:
-- Zope
-- WebDav
+- zope
+- webdav
 ---
 
 **WebDav** is a protocol, based on top of HTTP,
