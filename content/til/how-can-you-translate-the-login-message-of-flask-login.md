@@ -1,6 +1,6 @@
 ---
 title: "How Can You Translate the Login Message of Flask-Login"
-date: 2021-08-14T22:19:22+02:00
+date: 2020-08-14T22:19:22+02:00
 tags:
 - flask
 - flask-login
