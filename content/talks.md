@@ -1,5 +1,5 @@
 ---
-title: "talks"
+title: "Talks"
 # date: 2021-05-10T16:04:01+02:00 - date makes no sense on this page, right?
 ---
 
