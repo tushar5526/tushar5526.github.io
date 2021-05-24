@@ -22,6 +22,7 @@ May 2021
   in many repositories, and finally, how to apply changes to all of them.  
   ([Info](https://www.meetup.com/pythonireland/events/kqwjvrycchbqb/))
   ([Slides](/data/many.many.repos.slides.pdf))
+  ([Video](https://www.youtube.com/watch?v=9ZkjNJpUSlY))
 
 April 2021
 : **World Plone Day** - In "Testing the tox4 Pre-Release at Plone-/Zope-Scale" I spoke about
