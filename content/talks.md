@@ -15,6 +15,7 @@ May 2021
   in many repositories, and finally, how to apply changes to all of them.  
   ([Info](https://us.pycon.org/2021/events/lightning-talks/))
   ([Slides](/data/many.many.repos.slides.pdf))
+  ([Video](https://youtu.be/5zEn3Jta2Dg?t=2040))
 
 May 2021
 : **Python Ireland** - In "How to Maintain Many, Many, Many, Many... Many Git Repositories?!"
