@@ -1,78 +1,20 @@
 <!DOCTYPE html>
-<html lang="en-us">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Unity WebGL Player | HandDetection</title>
-    <link rel="shortcut icon" href="TemplateData/favicon.ico">
-    <link rel="stylesheet" href="TemplateData/style.css">
-    <script src="TemplateData/UnityProgress.js"></script>
-    <script src="Build/UnityLoader.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs/dist/tf.min.js" type="text/javascript"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-core"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-converter"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/handpose"></script>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="refresh" content="3; URL='https://tushar5526.github.io/HandDetectionUnityDemo/'" />
+    <title>Document</title>
+</head>
 
-  </head>
-  <body>
-    <video id="webcam" autoplay width="0" height="0"></video>
-    <div class="webgl-content">
-      <div id="gameContainer" style="width: 960px; height: 600px"></div>
-      <div class="footer">
-        <div class="webgl-logo"></div>
-        <div class="fullscreen" onclick="gameInstance.SetFullscreen(1)"></div>
-        <div class="title">HandDetection</div>
-      </div>
-    </div>
-  </body>
-  <script>
-    var gameInstance = UnityLoader.instantiate("gameContainer", "Build/handDetectorBuilds.json", {onProgress: UnityProgress});
-      const video = document.getElementById("webcam");
+<body>
+    <b>
+        There would be a portfolio website soon!
+        <br>
+        Redirecting to Hand Detection <a href="https://tushar5526.github.io/HandDetectionUnityDemo/">Click</a>
+    </b>
+</body>
 
-    function getUserMediaSupported() {
-      return !!(navigator.mediaDevices && navigator.mediaDevices.getUserMedia);
-    }
-
-    if (getUserMediaSupported()) {
-      console.log("camera supported");
-    } else {
-      console.warn("getUserMedia() is not supported by your browser");
-    }
-
-    function enableCam() {
-      if (!model) {
-        return;
-      }
-
-      const constraints = {
-        video: true,
-      };
-
-      navigator.mediaDevices.getUserMedia(constraints).then(function (stream) {
-        video.srcObject = stream;
-        video.addEventListener("loadeddata", predictWebcam);
-      });
-    }
-
-    var model = undefined;
-
-    handpose.load().then(function (loadedModel) {
-      model = loadedModel;
-      enableCam()
-    });
-
-    function predictWebcam() {
-      // Now let's start classifying a frame in the stream.
-      model.estimateHands(video).then(function (predictions) {
-        predictions.forEach(save);
-        function save(item, index) {   
-          //try calling unity here
-          gameInstance.SendMessage('hand', 'GetData', JSON.stringify(item));
-        }
-
-        window.requestAnimationFrame(predictWebcam);
-      });
-    }
-  </script>
 </html>
