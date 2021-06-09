@@ -10,7 +10,7 @@ This week I faced a very odd bug at work.
 
 A build process failed - on one machine, but not on the other.
 
-Of course - identical setup.
+Identical setup - of course :-/
 
 The build script consists of a bash script, which wraps a call to the C binary.
 
@@ -25,9 +25,14 @@ I asked a colleague to have a look and finally we figured out what is going wron
 
 The C code was reading the directory layout at a very low level,
 and the files/subdirectories were actually not sorted alphabetically,
-but in the order they had been written into the so-called `directory-index`.
+but in the order they appeared in the directory file.
 
 I even did not know this existed!
+
+## Notes
+
+> The index of a directory is written in a directory file for e.g. ext file systems.
+As another example, ReiserFS uses a [B+ Tree](https://en.wikipedia.org/wiki/ReiserFS#Design).
 
 Having a closer look at the 30 lines of C code,
 we noticed that the recursion had a bug,
@@ -35,7 +40,11 @@ as it relied on the order of the files and sub-folders in the directory.
 
 Ok, but how can you find out the "real" order of files in a directory?
 
-Turns out there is an option for `ls`.
+Turns out there is an option for `ls` - from its man page:
+
+```
+-U     do not sort; list entries in directory order
+```
 
 Have a look at these two (unrelated) file listings:
 
