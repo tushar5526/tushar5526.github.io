@@ -70,5 +70,5 @@ drwxr-xr-x 20 jugmac00 jugmac00 4096 Jun  8 09:53 ..
 -rw-rw-r--  1 jugmac00 jugmac00 7526 Mai  9 10:58 index.rst
 ```
 
-By the way - I never had to do this in Python,
+By the way - I never had to do copy a directory tree in Python,
 but I'd probably use `shutil.copytree` - what about you?
