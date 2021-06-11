@@ -35,3 +35,10 @@ And this is possible the `why` - `pytest` is called internally in a different wa
 Here we go...
 
 ![tox4 with color](/images/color-tox4-with-color-on.png)
+
+
+## further reading
+
+You can read more about why it is actually a good thing that output is not always colored
+at https://no-color.org/.
+
