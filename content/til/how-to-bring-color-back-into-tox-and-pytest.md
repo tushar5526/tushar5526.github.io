@@ -1,5 +1,5 @@
 ---
-title: "How to Bring Color Back Into Tox and Pytest"
+title: "How to Bring Color Back Into tox4 and pytest"
 date: 2021-06-11T15:48:12+02:00
 tags:
 - pytest
