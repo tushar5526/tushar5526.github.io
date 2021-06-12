@@ -9,6 +9,12 @@ I especially enjoy giving lightning and thunder talks.
 I want to thank both the **Google Developer Group** in Regensburg and
 **Python Ireland** for giving me a chance to become a more experienced speaker.
 
+June 2021
+: **Virtual PythonCamp Cologne** - In "Testing out of the Box - tox"
+  I gave an introduction to `tox`, by creating a new `tox.ini` from scratch,
+  in an interactive session with the audience.  
+  ([Info](https://barcamps.eu/pycampcologne2021/))
+
 May 2021
 : **PyCon US** - In "How to Maintain Many, Many, Many, Many... Many Git Repositories?!"
   I walk through the amazing `all-repos` command line app, and show how to search and grep
