@@ -1,5 +1,5 @@
 ---
-title: "How to Get Quick Git Stats"
+title: "How to Generate Quick Git Stats"
 date: 2021-06-21T14:15:50+02:00
 tag:
 - git
