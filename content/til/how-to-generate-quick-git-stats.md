@@ -23,5 +23,5 @@ Here we go...
 
 How do you generate stats from `git`?
 
-Drop me a line on [Twitter](https://twitter.com/jugmac00)
+Drop me a line on [Twitter](https://twitter.com/jugmac00/status/1406953732521201674)
 or via [e-mail](https://jugmac00.github.io/).
