@@ -16,6 +16,11 @@ Here we go...
  36 files changed, 35 insertions(+), 1263 deletions(-)
 ```
 
+```bash
+❯ git diff --shortstat "@{1 week ago}"
+ 40 files changed, 821 insertions(+), 1270 deletions(-)
+```
+
 How do you generate stats from `git`?
 
 Drop me a line on [Twitter](https://twitter.com/jugmac00)
