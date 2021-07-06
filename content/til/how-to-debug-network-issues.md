@@ -175,7 +175,7 @@ Ok, let's add a temporary route ...
 # route add default gw 192.168.1.1 ens192
 ```
 
-... except there is not `route` command available :-o
+... except there is no `route` command available :-o
 
 `route` and a couple of other network commands are deprecated,
 and most of them are replaced by the mighty `ip` command.
