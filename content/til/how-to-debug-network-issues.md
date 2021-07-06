@@ -192,4 +192,4 @@ you can use `ip route`.
 Interestingly, there was no `/etc/sysconfig/network/routes` file.
 Creating it and adding the default gateway worked, though.
 
-Mission completed ... real!
+Mission completed ... this time for real!
