@@ -23,7 +23,7 @@ libzbar0/bionic,now 0.10+doc-10.1build2 amd64 [installed]
 ... which only revealed the `libzbar0` library.
 
 As `vacdec` still works like a charm,
-installing `zbar` seems not necessary.
+installing `zbar` does not seem to be necessary.
 
 But how did `libzbar0` land on my pc?
 I could not recall installing it manually.
