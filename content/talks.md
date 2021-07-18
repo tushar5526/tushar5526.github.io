@@ -9,6 +9,13 @@ I especially enjoy giving lightning and thunder talks.
 I want to thank both the **Google Developer Group** in Regensburg and
 **Python Ireland** for giving me a chance to become a more experienced speaker.
 
+July 2021
+: **PyOhio** - In "Tool Confusion: Pythonic Code with flake8, tox and pre-commit"
+  I will give a whirlwind introduction to "What is pythonic?", and how to combine some of
+  the best developer tools out there to ensure your code looks great.  
+  ([Info](https://www.pyohio.org/2021/program/talks/tool-confusion-pythonic-code-with-flake8-tox-and-pre-commit))
+  ([Slides](/data/tool.confusion.slides.pdf))
+
 June 2021
 : **Virtual PythonCamp Cologne** - In "Testing out of the Box - tox"
   I gave an introduction to `tox`, by creating a new `tox.ini` from scratch,
