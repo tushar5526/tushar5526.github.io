@@ -1,8 +1,6 @@
 ---
 title: "GPG - All I Need to Know"
 date: 2021-07-22T16:40:59+02:00
-tags:
-- gpg
 ---
 
 While I need to use GPG pretty regularly,
