@@ -15,6 +15,7 @@ July 2021
   the best developer tools out there to ensure your code looks great.  
   ([Info](https://www.pyohio.org/2021/program/talks/tool-confusion-pythonic-code-with-flake8-tox-and-pre-commit))
   ([Slides](/data/tool.confusion.slides.pdf))
+  ([Video](https://www.youtube.com/watch?v=OnM3KuE7MQM))
 
 June 2021
 : **Virtual PythonCamp Cologne** - In "Testing out of the Box - tox"
