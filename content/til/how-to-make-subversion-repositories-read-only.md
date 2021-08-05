@@ -66,6 +66,9 @@ So I called it a day and updated the configuration...
 
 As you can see, I only allowed an exception for - nobody.
 
+After I applied the changes,
+I verified both the working read-access and the no longer working write-access manually.
+
 If you know more about this topic,
 or a better solution,
 do not hesitate to contact me.
