@@ -33,7 +33,7 @@ shuf
 ```
 
 Never heard before?
-Me neither! I just got to know the command today - thanks to my teammate Colin Watson.
+Me neither! I just learned about the command today - thanks to my teammate Colin Watson.
 
 ```bash
 $ shuf -e Me TeamMate1 TeamMate2 TeamMate3 TeamMate4
