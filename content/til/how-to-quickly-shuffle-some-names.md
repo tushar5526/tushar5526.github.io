@@ -12,7 +12,7 @@ we have a random order who starts, who follows next, and so on.
 
 Well, obviously, you could fire up a Python repl and use the random library, e.g.
 
-```
+```python
 >>> from random import shuffle
 >>> members = ["Me", "TeamMate1", "TeamMate2", "TeamMate3", "TeamMate4"]
 >>> shuffle(members)
@@ -28,14 +28,14 @@ it is a lot of typing, and a lot of quotes :-)
 As a matter of fact,
 once again Bash (Coreutils) has a solution:
 
-```
+```bash
 shuf
 ```
 
 Never heard before?
 Me neither! I just got to know the command today - thanks to my teammate Colin Watson.
 
-```
+```bash
 $ shuf -e Me TeamMate1 TeamMate2 TeamMate3 TeamMate4
 TeamMate4
 TeamMate2
