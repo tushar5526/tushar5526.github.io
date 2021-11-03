@@ -9,7 +9,7 @@ While [GitHub's default branch name](https://github.blog/changelog/2020-10-01-th
 for newly-created repositories is **main** since the end of October 2020,
 what about when you create a new git repository locally?
 
-# first things first
+## first things first
 
 git made the default branch name configurable in version 2.28 and higher.
 
@@ -47,7 +47,7 @@ $ git init -b main
 
 I tried hard, but I certainly forgot to specifiy the different default name more or less 100%.
 
-# update the configuration
+## update the configuration
 
 To use the new default for all new git repositories,
 you can update the configuration ...
