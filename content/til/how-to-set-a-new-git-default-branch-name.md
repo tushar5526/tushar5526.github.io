@@ -19,7 +19,7 @@ you may have an older version installed.
 Usually, you can't install a newer version without updating the distribution.
 
 But there is hope,
-you can install git via a PPA (personal package archive):
+you can install a newer git version via a PPA (personal package archive):
 
 ```
 $ sudo add-apt-repository ppa:git-core/ppa
