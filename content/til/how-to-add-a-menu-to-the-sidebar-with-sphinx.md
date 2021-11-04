@@ -87,8 +87,10 @@ Just put the document name in angle brackets, and the text before.
 
 ## final menu
 
+```rst
  .. toctree::
  
     self
     Contributing <CONTRIBUTING>
     News <NEWS>
+```
