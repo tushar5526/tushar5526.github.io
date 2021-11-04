@@ -30,15 +30,9 @@ In order get data out of a Bazaar repository,
 you need to install a Bazaar client and an export plugin.
 
 Without going into details,
-you should install the latest version of [Breezy](https://github.com/breezy-team/breezy),
+you should install the latest version of [Breezy](https://pypi.org/project/breezy/),
 which is a Bazaar client and comes with the `FastImport` plugin,
 which also can export data.
-
-```bash
-$ sudo apt install breezy
-```
-
-or
 
 ```bash
 $ pipx install breezy
