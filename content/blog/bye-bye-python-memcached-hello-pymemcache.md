@@ -157,7 +157,7 @@ The test suite now ran with 3 failures and 1 error.
 AttributeError: 'HashClient' object has no attribute 'MemcachedKeyCharacterError'
 ```
 
-Reading some old code comments, it looks like my predecessors had been bitten by a bug in memcached,
+Reading some old code comments, it looks like my predecessors had been bitten by a bug in **python-memcached**,
 which allowed spaces in keys, so a regression test was written.
 
 **pymemcache** decided to both move and rename the exception.
