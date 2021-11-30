@@ -76,8 +76,6 @@ def main(argv=None):
     parser = argparse.ArgumentParser()
     parser.add_argument('--name', required=True)
 
-    if argv is None:
-        argv = sys.argv[1:]
     if not argv:
         parser.print_help()
         sys.exit(1)
@@ -110,3 +108,10 @@ There is no more need to patch `sys.argv`!
 
 Thanks to [Anthony Sottile](https://twitter.com/codewithanthony/),
 who should me this "trick" sometimes back in 2020.
+
+## Updates
+
+### 2021.11.30
+
+Thanks to [Anthony Sottile](https://twitter.com/codewithanthony/status/1465740172633554948) I now know that "You don't even need the hackery with `sys.argv[1:]`"
+and so I was able to make the above code even simpler.
