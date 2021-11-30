@@ -75,11 +75,6 @@ import sys
 def main(argv=None):
     parser = argparse.ArgumentParser()
     parser.add_argument('--name', required=True)
-
-    if not argv:
-        parser.print_help()
-        sys.exit(1)
-
     args = parser.parse_args(argv)
     print(f'Hello {args.name}')
 
@@ -113,5 +108,7 @@ who should me this "trick" sometimes back in 2020.
 
 ### 2021.11.30
 
-Thanks to [Anthony Sottile](https://twitter.com/codewithanthony/status/1465740172633554948) I now know that "You don't even need the hackery with `sys.argv[1:]`"
+- Thanks to [Anthony Sottile](https://twitter.com/codewithanthony/status/1465740172633554948) I now know that "You don't even need the hackery with `sys.argv[1:]`"
 and so I was able to make the above code even simpler.
+
+- Thanks to my friend [Miroslav Šedivý](https://twitter.com/eumiro) and - once more - [Anthony Sottile](https://twitter.com/codewithanthony/status/1465775931499466754) the code block (`if sys.argv is None`) is now also gone, as `argparse` handles this case already.
