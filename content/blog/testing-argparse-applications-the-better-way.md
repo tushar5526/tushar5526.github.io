@@ -26,7 +26,6 @@ def main():
     args = parser.parse_args()
     print(f'Hello {args.name}')
 
-
 if __name__ == '__main__':
     sys.exit(main())
 ```
@@ -73,7 +72,6 @@ Indeed, you can rewrite the code as following...
 import argparse
 import sys
 
-
 def main(argv=None):
     parser = argparse.ArgumentParser()
     parser.add_argument('--name', required=True)
@@ -86,7 +84,6 @@ def main(argv=None):
 
     args = parser.parse_args(argv)
     print(f'Hello {args.name}')
-
 
 if __name__ == '__main__':
     sys.exit(main())
