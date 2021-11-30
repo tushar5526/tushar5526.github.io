@@ -18,15 +18,13 @@ Imagine you have created the following [argparse](https://docs.python.org/3/libr
 
 <main.py>
 ```
-#!/usr/bin/env python
-
 import argparse
 
 def main():
-	parser = argparse.ArgumentParser()
-	parser.add_argument('--name', required=True)
-	args = parser.parse_args()
-	print(f'Hello {args.name}')
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--name', required=True)
+    args = parser.parse_args()
+    print(f'Hello {args.name}')
 
 
 if __name__ == '__main__':
