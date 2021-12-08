@@ -94,6 +94,9 @@ I noticed that the `time` argument is now called `expire`.
 
 So I just needed to update that - for all callers!
 
+Also, `expire` needs to be an int,
+whereas `time` also accepted a `float` type.
+
 ## No more debug
 
 The next problem was a connection problem of the client to the server.
@@ -219,3 +222,17 @@ HashClient(
 I hope this migration guide will help someone out there with a similar task.
 
 I also hope the maintainers of `pymemcache` consider linking to this blog post :-)
+
+
+## Updates
+
+### 2021-12-08
+
+- add note that `expire` needs to be an `int`, no longer a `float`
+
+- after the deployment of the migration, we noticed a couple of problems,
+which boiled down to the fact,
+that pymemcache is less lenient to possible problems
+as it only catches selected exceptions,
+and [re-raises the rest](https://github.com/pinterest/pymemcache/blob/88ae513f6587dfbc3a58de9ca575e6be4338450a/pymemcache/client/base.py#L1110-L1112),
+so you need to take care of exception handling in your code!
