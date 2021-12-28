@@ -102,7 +102,7 @@ There is no more need to patch `sys.argv`!
 ### Thank you
 
 Thanks to [Anthony Sottile](https://twitter.com/codewithanthony/),
-who should me this "trick" sometimes back in 2020.
+who showed me this "trick" sometimes back in 2020.
 
 ## Updates
 
