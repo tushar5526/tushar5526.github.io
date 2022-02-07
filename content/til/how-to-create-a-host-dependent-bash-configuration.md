@@ -15,7 +15,7 @@ especially for `.bashrc` modifications, which only apply to the host.
 
 e.g. activating bash completion for [pipx](https://github.com/pypa/pipx).
 
-```
+```bash
 eval "$(register-python-argcomplete pipx)"
 ```
 
@@ -26,7 +26,7 @@ but not in my development containers.
 
 One simple solution is to wrap the host specific parts in an if block:
 
-```
+```bash
 if [ "$HOSTNAME" = "my-hostname" ]
 then
     # pipx completions
