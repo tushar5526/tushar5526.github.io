@@ -13,7 +13,7 @@ and give feedback if anything is broken.
 
 When the upcoming [pytest](https://docs.pytest.org/en/stable/) version 6 had been announced,
 I wrote a short instruction on how to
-[install pre-releases](https://github.com/jugmac00/til/blob/master/python/install-release-candidates.md).
+[install pre-releases](https://jugmac00.github.io/til/how-to-install-release-candidates/).
 
 This time, [tox](https://tox.readthedocs.io/en/latest/),
 the **virtualenv** management and test tool,

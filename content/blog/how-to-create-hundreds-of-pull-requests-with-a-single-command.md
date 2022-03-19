@@ -14,7 +14,7 @@ Seriously...
 ## note
 
 > If you are not interested in the story behind,
-I also created a [concise "today-I-learned" post](https://github.com/jugmac00/til/blob/master/zope/how-to-update-all-zopefoundation-repositories-at-once.md).
+I also created a [concise "today-I-learned" post](https://jugmac00.github.io/til/how-to-update-all-zope-repositories-at-once/).
 
 
 
@@ -305,7 +305,7 @@ and it especially helps maintaining **open source** projects on a large scale.
 
 ## further information
 
-- [concise version of this blog post](https://github.com/jugmac00/til/blob/master/zope/how-to-update-all-zopefoundation-repositories-at-once.md)
+- [concise version of this blog post](https://jugmac00.github.io/til/how-to-update-all-zope-repositories-at-once/)
 - [all-repos](https://pypi.org/project/all-repos/) on PyPI
 - [Anthony on Twitter](https://twitter.com/codewithanthony)
 

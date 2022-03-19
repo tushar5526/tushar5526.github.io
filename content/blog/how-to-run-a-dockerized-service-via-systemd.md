@@ -36,7 +36,7 @@ and also the process would not survive a reboot of the host system.
 
 ## note
 
-> Do you know the [difference](https://github.com/jugmac00/til/blob/master/docker/difference-between-docker-create-start-run.md)
+> Do you know the [difference](https://jugmac00.github.io/til/what-is-the-difference-between-docker-create-docker-start-and-docker-run/)
 between `docker create`, `docker run` and `docker start`?
 
 While we are here, let's dissect this complex command:
