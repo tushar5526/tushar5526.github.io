@@ -54,6 +54,9 @@ commands =
 basepython =
      python3
 deps =
+    coverage
+    pytest
+commands =
     coverage run -m pytest
     coverage report -m --fail-under=100
 ```
@@ -88,6 +91,8 @@ commands =
 basepython =
     python3
 deps =
+    coverage
+commands =
     coverage combine
     coverage report -m --fail-under=100
 ```
@@ -125,12 +130,13 @@ commands =
 basepython =
     python3
 deps =
+    coverage
+commands =
     coverage combine
     coverage report -m --fail-under=100
 
 [coverage:run]
-parallel =
-    true
+parallel=True
 ```
 
 Now you can run your tests and get a combined coverage report by...
@@ -185,6 +191,8 @@ basepython =
 skip_install =
     true
 deps =
+    coverage
+commands =
     coverage combine
     coverage report -m --fail-under=100
 depends =
@@ -193,8 +201,7 @@ depends =
     py39
 
 [coverage:run]
-parallel =
-    true
+parallel=True
 ```
 
 ## Updates
