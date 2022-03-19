@@ -82,7 +82,7 @@ deps =
     coverage
     pytest
 commands = 
-    coverage -m pytest
+    coverage run -m pytest
 
 [testenv:coverage]
 basepython =
@@ -119,7 +119,7 @@ deps =
     coverage
     pytest
 commands = 
-    coverage -m pytest
+    coverage run -m pytest
 
 [testenv:coverage]
 basepython =
@@ -177,7 +177,7 @@ deps =
     coverage
     pytest
 commands = 
-    coverage -m pytest
+    coverage run -m pytest
 
 [testenv:coverage]
 basepython =
@@ -196,3 +196,8 @@ depends =
 parallel =
     true
 ```
+
+## Updates
+
+**2022-03-19:**
+- fix commands to run coverage
