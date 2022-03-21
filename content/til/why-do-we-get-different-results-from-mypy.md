@@ -20,7 +20,7 @@ why did it work on his machine, but not on mine?
 I compared the output of both our `tox -rvv -e mypy` runs...
 Almost identical, except for the path and a difference in the patch version of Python.
 
-A couple of minutes later my colleague come up with the solution.
+A couple of minutes later my colleague came up with the solution.
 
 Mypy accessed its cache from earlier runs.
 
