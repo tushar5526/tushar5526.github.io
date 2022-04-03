@@ -228,7 +228,7 @@ git push --tags
 When you go to the `code` tab of the project,
 you still only see the Bazaar repository.
 
-> Actually, you could already swith to the git repository by clicking the link on the right.
+> Actually, you could already switch to the git repository by clicking the link on the right.
 
 In order to change the default view,
 you need to go to `Configure Code` again,
