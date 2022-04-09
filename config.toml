@@ -52,5 +52,13 @@ name = "talks"
 title = "talks"
 url = "/talks/"
 
+[[menu.main]]
+weight = 4
+identifier = "hiring"
+name = "hiring"
+title = "hiring"
+url = "/hiring/"
+
+
 [taxonomies]
   tag = "tags"
