@@ -9,6 +9,13 @@ I especially enjoy giving lightning and thunder talks.
 I want to thank both the **Google Developer Group** in Regensburg and
 **Python Ireland** for giving me a chance to become a more experienced speaker.
 
+April 2022
+: **PyCon DE** - In "How to Find Your Way Through a Million Lines of Code" I
+  give helpful hints and tricks on how to get up to speed with a new code base,
+  even when the project contains more than one million lines of code!  
+  ([Info](https://2022.pycon.de/program/WHVGAX/))
+  ([Slides](/data/million.lines.of.code.pdf))
+
 July 2021
 : **PyOhio** - In "Tool Confusion: Pythonic Code with flake8, tox and pre-commit"
   I will give a whirlwind introduction to "What is pythonic?", and how to combine some of
