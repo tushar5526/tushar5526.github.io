@@ -8,7 +8,7 @@ tags:
 Modern browsers are pretty similar,
 so switching from Chrome to Firefox was no big issue...
 
-... except that when I searched something on a page with `STRG + F`,
+... except that when I searched something on a page with `STRG + F` / `Ctrl + F`,
 only the first match was highlighted.
 
 This was a major annoyance.
