@@ -6,7 +6,7 @@ tags:
 - coverage
 ---
 
-While Hynek already thought in 2016 that "Considered Harmful" was getting old,
+While Hynek already considered "Considered Harmful" was getting old in 2016,
 and so he named this blog post [hasattr() – A Dangerous Misnomer](https://hynek.me/articles/hasattr/),
 instead of *hasattr() considered harmful*, 
 meanwhile it is 2022 and I still like that phrase.
@@ -127,4 +127,4 @@ You could use [mutation testing](https://en.wikipedia.org/wiki/Mutation_testing)
 which mutates the code and raises alarm if this does not cause a test failure.
 But that would be another topic.
 
-At very least - be aware of this "invisible" test or coverage gap!
+At very least - be aware of these "invisible" test or coverage gaps!
