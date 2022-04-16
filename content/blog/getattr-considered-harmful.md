@@ -87,7 +87,8 @@ This could have been written as:
 ```python
 if hasattr(args, "output"):
     _run_job(args.job, job, provider, args.output)
-_run_job(args.job, job, provider, None))
+else:
+    _run_job(args.job, job, provider, None)
 ```
 
 Certainly, then coverage, at least with activated branch coverage,
