@@ -20,7 +20,7 @@ Simple as that.
 
 I had it already installed as a dependency when I installed
 [calibre](https://github.com/kovidgoyal/calibre), but you can also install it
-via
+via...
 
 ```bash
 sudo apt install poppler-utils 
