@@ -16,7 +16,7 @@ For a long time, Bazaar was the only supported VCS on Launchpad.
 Launchpad is a code hosting platform,
 similar to the now prevalent GitHub,
 and while open to the public,
-nowadays it is mostly used by Canonical itself and many other individuals and companys
+nowadays it is mostly used by Canonical itself and many other individuals and companies
 to manage the whole lifecycle of creating packages for Ubuntu and its distributions.
 
 Since quite some time also [git](https://blog.launchpad.net/general/git-code-hosting-beta) is a supported VCS on Launchpad.
@@ -40,7 +40,7 @@ $ pipx install breezy
 
 ## Clone the Repository
 
-I choose [lazr.config](https://launchpad.net/lazr.config) to demostrate the process.
+I choose [lazr.config](https://launchpad.net/lazr.config) to demonstrate the process.
 
 Let's go to the project on [Launchpad]((https://launchpad.net/lazr.config)),
 click on the code tab,
@@ -67,7 +67,7 @@ or politely ask the contributor to create a new merge proposal against the git r
 
 ## Migrate the Repository
 
-As both Bazwaar and git use a "hidden" folder to store the meta data,
+As both Bazaar and git use a "hidden" folder to store the meta data,
 we can perform the conversion in the same directory we cloned the repository into.
 
 ```bash
