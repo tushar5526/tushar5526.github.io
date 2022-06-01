@@ -1,5 +1,5 @@
 ---
-title: "Oh Open Source Supply Chain Security, Where Art Thou"
+title: "Oh Open Source Supply Chain Security, Where Art Thou?"
 date: 2022-06-01T20:38:46+02:00
 tags:
 - security
