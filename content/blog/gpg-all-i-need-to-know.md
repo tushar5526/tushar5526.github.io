@@ -8,6 +8,32 @@ I always have to look up the commands - they just don't stick :-)
 
 Over the last couple of months I collected every command I had to use. Enjoy!
 
+## create a key
+
+```bash
+gpg --quick-generate-key user-id
+
+# or
+
+gpg --generate-key
+
+# or
+
+gpg --full-generate-key
+```
+
+## delete a private key
+
+```bash
+gpg --delete-secret-keys key-id
+```
+
+## delete a public key
+
+```bash
+gpg --delete-key key-id
+```
+
 ## encrypt a file
 
 ```bash
@@ -53,6 +79,26 @@ gpg --edit me@example.com
 ...
 ```
 
+## revoke a key
+
+```bash
+# always do this and keep it safely
+gpg --output revoke.asc --gen-revoke key-id
+
+# do this when you actually need to revoke it
+gpg --import revoke.asc
+gpg --keyserver keys.openpgp.org --send-keys key-id
+```
+
+
 ## feedback
 
 Did I miss anything? What commands do you regularly use?
+
+## update
+
+### 2022-06-05
+
+- added command to create a new key
+- added commands to delete private and public keys
+- added commands to revoke a key
