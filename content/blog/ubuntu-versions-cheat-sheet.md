@@ -10,7 +10,7 @@ tags:
 - eol
 ---
 
-about versions, names and versions
+about versions, names, even more versions and dates
 
 | version | code name | python | go | debhelper | end of standard support | eol |
 |---|---|---|---|---|---|---|
