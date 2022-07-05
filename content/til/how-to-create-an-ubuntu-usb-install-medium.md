@@ -27,7 +27,7 @@ so I need to set up an operating system with German language.
 
 Ubuntu is my favorite operating system,
 and as I run it on my laptop,
-I can use the "Startup Disk Creator" which comes pre-installed wit Ubuntu.
+I can use the "Startup Disk Creator" which comes pre-installed with Ubuntu.
 
 The app is super simple:
 - choose an ISO image

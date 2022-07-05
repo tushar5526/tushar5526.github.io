@@ -87,7 +87,7 @@ Hm, let's have a look at the **HTTP headers** in the debug console.
 
 Here we go, the `location` header of the response had the following value...
 
-```http://nemesis.company.lcoal/.../.../.../.../Default.aspx```
+```http://nemesis.company.local/.../.../.../.../Default.aspx```
 
 Once more, after some googling,
 the **nginx** documentation offered a solution

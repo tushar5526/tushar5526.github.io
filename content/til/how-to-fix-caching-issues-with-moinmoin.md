@@ -14,4 +14,4 @@ Though the changes were visible both in the **edit** view,
 and in the history.
 
 Turns out this was a server-side caching issue
-which could be solved by chosing "More Actions" and then "Delete Cache" from the page's menu.
+which could be solved by choosing "More Actions" and then "Delete Cache" from the page's menu.

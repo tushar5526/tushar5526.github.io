@@ -45,7 +45,7 @@ $ git init --initial-branch=main
 $ git init -b main
 ```
 
-I tried hard, but I certainly forgot to specifiy the different default name more or less 100%.
+I tried hard, but I certainly forgot to specify the different default name more or less 100%.
 
 ## update the configuration
 

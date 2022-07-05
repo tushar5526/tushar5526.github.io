@@ -54,7 +54,7 @@ Nobody claimed Python packaging is easy!
 ### MANIFEST.in
 
 After adding `py.typed` to my repository,
-the indispensible [check-manifest](https://pypi.org/project/check-manifest/) told me what to do:
+the indispensable [check-manifest](https://pypi.org/project/check-manifest/) told me what to do:
 
 ```bash
 ❯ check-manifest 

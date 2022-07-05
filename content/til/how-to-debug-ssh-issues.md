@@ -10,7 +10,7 @@ I needed to install and run [lxd](https://linuxcontainers.org/).
 
 After launching my first container,
 I wanted to ssh into it,
-but was not successfull.
+but was not successful.
 
 Basically, now you have two ways to find out what is going on.
 

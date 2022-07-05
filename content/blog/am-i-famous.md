@@ -15,7 +15,7 @@ Woohah! Congratulations!
 
 How did he know?
 
-> Everytime I get a PR merged I record the repo's URL for a tool I created to analyze my contributions to OSS.
+> Every time I get a PR merged I record the repo's URL for a tool I created to analyze my contributions to OSS.
 
 Ah... k. I did not do that.
 
