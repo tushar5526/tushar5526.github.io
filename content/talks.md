@@ -9,6 +9,14 @@ I especially enjoy giving lightning and thunder talks.
 I want to thank both the **Google Developer Group** in Regensburg and
 **Python Ireland** for giving me a chance to become a more experienced speaker.
 
+July 2022
+: **PyOhio** - In "What Is a Reasonable Percentage for Code Coverage and Why Is
+  It 100%?" you are invited to join my journey to find a final answer on what is
+  the right number of code coverage. Is it 50? 60? 80? Or even 100%? Let's find
+  out.  
+  ([Info](https://www.pyohio.org/2022/program/talks/what-is-a-reasonable-percentage-for-code-coverage-and-why-is-it-100))
+
+
 April 2022
 : **PyCon DE** - In "How to Find Your Way Through a Million Lines of Code" I
   give helpful hints and tricks on how to get up to speed with a new code base,
