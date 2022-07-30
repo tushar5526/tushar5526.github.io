@@ -15,6 +15,7 @@ July 2022
   the right number of code coverage. Is it 50? 60? 80? Or even 100%? Let's find
   out.  
   ([Info](https://www.pyohio.org/2022/program/talks/what-is-a-reasonable-percentage-for-code-coverage-and-why-is-it-100))
+  ([Slides](/data/percentage.of.code.coverage.pdf))
 
 
 April 2022
