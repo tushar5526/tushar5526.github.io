@@ -16,6 +16,8 @@ July 2022
   out.  
   ([Info](https://www.pyohio.org/2022/program/talks/what-is-a-reasonable-percentage-for-code-coverage-and-why-is-it-100))
   ([Slides](/data/percentage.of.code.coverage.pdf))
+  ([Video](https://www.youtube.com/watch?v=C1hO0naoU8I))
+  ([Alternative Video](https://www.youtube.com/watch?v=9AsOOd3fg2s))
 
 
 April 2022
