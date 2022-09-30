@@ -23,7 +23,7 @@ And then use the interactive search.
 ## Bonus
 
 While I prefer the above way,
-in case you are only interested in grep-style result,
+in case you are only interested in grep-style results,
 you can also perform a ....
 
 ```
