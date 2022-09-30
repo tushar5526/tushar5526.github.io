@@ -1,5 +1,5 @@
 ---
-title: "How to Show Git Log Only for One File Type"
+title: "How to Apply Git Log and Git Grep Only for a Specific File Type"
 date: 2022-09-30T08:13:24+02:00
 tags:
 - git
@@ -11,7 +11,7 @@ Usually I do a `git log -p` and then use the interactive search in **less** via 
 but in this case there were too many hits from Python files,
 so I wanted to restrict my search to SQL files only.
 
-Turns out you can pass in the file type via...
+Turns out you can pass in the file type via ...
 
 ```
 git log -p -- '*sql'
@@ -23,7 +23,7 @@ And then use the interactive search.
 
 While I prefer the above way,
 in case you are only interested in grep-style results,
-you can also perform a ....
+you can also perform a ...
 
 ```
 git grep "UPDATE" -- '*sql'
