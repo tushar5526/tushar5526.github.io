@@ -15,5 +15,17 @@ so I wanted to restrict my search to SQL files only.
 Turns out you can pass in the file type via...
 
 ```
+git log -p -- '*sql'
+```
+
+And then use the interactive search.
+
+## Bonus
+
+While I prefer the above way,
+in case you are only interested in grep-style result,
+you can also perform a ....
+
+```
 git grep "UPDATE" -- '*sql'
 ```
