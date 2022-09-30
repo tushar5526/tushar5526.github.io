@@ -5,8 +5,7 @@ tags:
 - git
 ---
 
-Today I wanted to have a look how the `UPDATE` statement was used 
-in already deleted SQL patch files
+Today I wanted to check how the `UPDATE` statement was used in already deleted SQL patch files.
 
 Usually I do a `git log -p` and then use the interactive search in **less** via `/`,
 but in this case there were too many hits from Python files,
