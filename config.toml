@@ -23,7 +23,6 @@ enabled = true
 title = "Hi, I'm Jürgen."
 subtitle = "Say hello to me at various places on the internet."
 
-
 # configure navigation
 [[menu.main]]
 weight = 1
@@ -60,6 +59,12 @@ name = "hiring"
 title = "hiring"
 url = "/hiring/"
 
+[[menu.main]]
+weight = 5
+identifier = "tags"
+name = "tags"
+title = "tags"
+url = "/tags/"
 
 [taxonomies]
   tag = "tags"
