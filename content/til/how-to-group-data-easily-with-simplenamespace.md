@@ -1,5 +1,5 @@
 ---
-title: "How to Group Data Easily With Simplenamespace"
+title: "How to Group Data Easily With SimpleNamespace"
 date: 2020-11-13T09:24:27+02:00
 tags:
 - python
