@@ -79,6 +79,14 @@ Right, why would you install `lfs` when `df` is available?
 
 SNAPS! :-)
 
-Try to run `df` on any Ubuntu system and you will see a lot of noise from installed Snaps.
+Try to run `df` on any Ubuntu system (< 22.04) and you will see a lot of noise from installed Snaps.
 
 `lfs` on the other hand filters Snap out by default.
+
+
+## Update
+
+### 2022-10-24
+
+My colleague Oliver Grawert pointed out that beginning with 22.04,
+`df` filters Snaps, too!
