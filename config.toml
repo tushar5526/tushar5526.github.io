@@ -11,6 +11,7 @@ socialIcons = [
   { name = "email", url = "mailto:juergen.gmach@googlemail.com" },
   { name = "github", url = "https://github.com/jugmac00" },
   { name = "twitter", url = "https://twitter.com/jugmac00" },
+  { name = "mastodon", url = "https://fosstodon.org/@jugmac00" },
   { name = "youtube", url = "https://www.youtube.com/channel/UC_Jpu61dpHkxiCbTNQkKYrg" },
   { name = "python", url = "https://discuss.python.org/u/jugmac00/summary" },
   { name = "stackoverflow", url = "https://stackoverflow.com/users/672833/j-g"},
