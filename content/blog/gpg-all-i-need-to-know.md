@@ -57,7 +57,7 @@ gpg --list-keys
 ## search and add a new key
 
 ```bash
-gpg --keyserver keys.openpgp.org --search-key someone@example.com
+gpg --keyserver keyserver.ubuntu.com --search-key someone@example.com
 ```
 
 ## import a public key from the file system
@@ -102,6 +102,7 @@ Did I miss anything? What commands do you regularly use?
 ### 2023-01-04
 
 - added note that you can repeat the ``--recipient`` option
+- use keyserver.ubuntu.com
 
 ### 2022-06-05
 
