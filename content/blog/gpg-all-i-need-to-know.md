@@ -40,6 +40,8 @@ gpg --delete-key key-id
 gpg --encrypt --recipient someone@example.com filename
 ```
 
+Please note that you can repeat the ``--recipient`` option.
+
 ## decrypt a file
 
 ```bash
@@ -96,6 +98,10 @@ gpg --keyserver keys.openpgp.org --send-keys key-id
 Did I miss anything? What commands do you regularly use?
 
 ## update
+
+### 2023-01-04
+
+- added note that you can repeat the ``--recipient`` option
 
 ### 2022-06-05
 
