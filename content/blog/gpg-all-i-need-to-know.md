@@ -56,6 +56,14 @@ gpg --list-keys
 
 ## search and add a new key
 
+### via key-id
+
+```bash
+gpg --keyserver keyserver.ubuntu.com --search-key some-key-id
+```
+
+### via email address
+
 ```bash
 gpg --keyserver keyserver.ubuntu.com --search-key someone@example.com
 ```
@@ -98,6 +106,10 @@ gpg --keyserver keys.openpgp.org --send-keys key-id
 Did I miss anything? What commands do you regularly use?
 
 ## update
+
+### 2023-01-05
+
+- add alternative way to request keys from a server (Thanks, Alex Murray)
 
 ### 2023-01-04
 
