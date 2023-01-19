@@ -68,7 +68,7 @@ e.g. `cd` or `pushd` and `popd`.
 ### Delete a worktree
 
 ```
-git remove <directory_name>
+git worktree remove <directory_name>
 ```
 
 ## Every light has its shadow
