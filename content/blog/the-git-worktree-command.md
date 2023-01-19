@@ -45,7 +45,7 @@ and **git** offers some handy commands to work with **worktrees**.
 
 ### Create a new worktree
 
-```
+```bash
 git worktree add -b <branch_name> ../<some_directory> main
 ```
 
@@ -56,7 +56,7 @@ This command
 
 ### List all worktrees
 
-```
+```bash
 git worktree list
 ```
 
@@ -67,7 +67,7 @@ e.g. `cd` or `pushd` and `popd`.
 
 ### Delete a worktree
 
-```
+```bash
 git worktree remove <directory_name>
 ```
 
