@@ -102,6 +102,17 @@ If you prefer a `setup.cfg` over a `setup.py`...
 your_package = py.typed
 ```
 
+### setuptools and pyproject.toml
+
+If you prefer to use a barebones `setuptools` project with a `pyproject.toml`
+based configuration file, without a `setup.cfg`,
+you need to add the following lines:
+
+```
+[tool.setuptools.package-data]
+"*" = ["py.typed"]
+```
+
 ### poetry
 
 If you are into `poetry`, there is great news.
@@ -123,6 +134,13 @@ I want to end this journey into the depths of Python packaging with the famous w
 (Translation: When you start doing it the right way, it will eventually work out.)
 
 ## Updates
+
+**2023.02.27**
+
+- [Glyph](https://mastodon.social/@glyph/109882649574179053) struggled to find
+  the right way to include `py.typed` in a pure setuptools project without an
+  `setup.cfg`, but only with an `pyproject.toml` configuration file,
+  but eventually figured it out. Added it to the above list.
 
 **2020.05.12**
 - [David Lukeš](https://dlukes.github.io/) reported a problem with the `poetry` section.
