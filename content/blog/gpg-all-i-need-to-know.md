@@ -70,7 +70,7 @@ gpg --fingerprint key-id
 # show sigs for all keys
 gpg --list-sigs
 
-# for for as single key
+# or for as single key
 gpg --list-sigs key-id
 ```
 
