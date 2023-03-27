@@ -54,6 +54,26 @@ gpg --decrypt -outfile filename filename.gpg
 gpg --list-keys
 ```
 
+## show fingerprints
+
+```bash
+# show fingerprints for all keys
+gpg --fingerprint
+
+# or for a single key
+gpg --fingerprint key-id
+```
+
+## show signatures
+
+```bash
+# show sigs for all keys
+gpg --list-sigs
+
+# for for as single key
+gpg --list-sigs key-id
+```
+
 ## search and add a new key
 
 ### via key-id
@@ -106,6 +126,11 @@ gpg --keyserver keys.openpgp.org --send-keys key-id
 Did I miss anything? What commands do you regularly use?
 
 ## update
+
+### 2023-03-27
+
+- added command to list signatures
+- added command to list fingerprints 
 
 ### 2023-01-05
 
