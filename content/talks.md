@@ -9,6 +9,14 @@ I especially enjoy giving lightning and thunder talks.
 I want to thank both the **Google Developer Group** in Regensburg and
 **Python Ireland** for giving me a chance to become a more experienced speaker.
 
+April 2023
+: **PyCon DE & PyData Berlin** - In "Behind the Scenes of tox" I take you on
+  "The Journey of Rewriting a Python Tool with more than 10 Million Monthly
+  Downloads".
+  ([Info](https://2023.pycon.de/program/XEVGVJ/))
+  ([Slides](/data/behind.the.scenes.of.tox.pdf))
+  ([Video](https://www.youtube.com/watch?v=C1hO0naoU8I))
+
 July 2022
 : **PyOhio** - In "What Is a Reasonable Percentage for Code Coverage and Why Is
   It 100%?" you are invited to join my journey to find a final answer on what is
