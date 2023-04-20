@@ -15,7 +15,6 @@ April 2023
   Downloads".
   ([Info](https://2023.pycon.de/program/XEVGVJ/))
   ([Slides](/data/behind.the.scenes.of.tox.pdf))
-  ([Video](https://www.youtube.com/watch?v=C1hO0naoU8I))
 
 July 2022
 : **PyOhio** - In "What Is a Reasonable Percentage for Code Coverage and Why Is
