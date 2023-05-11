@@ -8,7 +8,7 @@ tags:
 - bzr
 ---
 
-Last year I wrote a blog post about how to migrate from [Bazaar](https://bazaar.canonical.com/en/),
+Last year I wrote a blog post about how to [migrate away from Bazaar](/blog/migrate-a-repository-from-bazaar-to-git/),
 a distributed version control system, originally developed by Canonical,
 to git.
 
