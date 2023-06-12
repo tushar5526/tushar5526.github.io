@@ -9,6 +9,13 @@ I especially enjoy giving lightning and thunder talks.
 I want to thank both the **Google Developer Group** in Regensburg and
 **Python Ireland** for giving me a chance to become a more experienced speaker.
 
+June 2023
+: **OpenSouthCode in Málaga** - In "Behind the Scenes of tox" I take you on
+  "The Journey of Rewriting a Python Tool with more than 10 Million Monthly
+  Downloads".
+  ([Info](https://www.opensouthcode.org/conferences/opensouthcode2023/program/proposals/528))
+  ([Slides](/data/behind.the.scenes.of.tox.malaga.pdf))
+
 April 2023
 : **PyCon DE & PyData Berlin** - In "Behind the Scenes of tox" I take you on
   "The Journey of Rewriting a Python Tool with more than 10 Million Monthly
@@ -25,7 +32,6 @@ July 2022
   ([Slides](/data/percentage.of.code.coverage.pdf))
   ([Video](https://www.youtube.com/watch?v=C1hO0naoU8I))
   ([Alternative Video](https://www.youtube.com/watch?v=9AsOOd3fg2s))
-
 
 April 2022
 : **PyCon DE** - In "How to Find Your Way Through a Million Lines of Code" I
