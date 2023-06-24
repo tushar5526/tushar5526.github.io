@@ -12,16 +12,17 @@ I want to thank both the **Google Developer Group** in Regensburg and
 June 2023
 : **OpenSouthCode in Málaga** - In "Behind the Scenes of tox" I take you on
   "The Journey of Rewriting a Python Tool with more than 10 Million Monthly
-  Downloads".
+  Downloads".  
   ([Info](https://www.opensouthcode.org/conferences/opensouthcode2023/program/proposals/528))
   ([Slides](/data/behind.the.scenes.of.tox.malaga.pdf))
 
 April 2023
 : **PyCon DE & PyData Berlin** - In "Behind the Scenes of tox" I take you on
   "The Journey of Rewriting a Python Tool with more than 10 Million Monthly
-  Downloads".
+  Downloads".  
   ([Info](https://2023.pycon.de/program/XEVGVJ/))
   ([Slides](/data/behind.the.scenes.of.tox.pdf))
+  ([Video](https://www.youtube.com/watch?v=9JAuyg5hPo0))
 
 July 2022
 : **PyOhio** - In "What Is a Reasonable Percentage for Code Coverage and Why Is
