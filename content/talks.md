@@ -9,6 +9,12 @@ I especially enjoy giving lightning and thunder talks.
 I want to thank both the **Google Developer Group** in Regensburg and
 **Python Ireland** for giving me a chance to become a more experienced speaker.
 
+September 2023
+: **PyCon CZ 23 in Prague** - In "Behind the Scenes of tox" I take you on the
+  joureny of "Rewriting a Tool with more than 10 Million Monthly Downloads".  
+  ([Info](https://cz.pycon.org/2023/program/talks/109/))
+  ([Slides](/data/behind.the.scenes.of.tox.prague.pdf))
+
 June 2023
 : **OpenSouthCode in Málaga** - In "Behind the Scenes of tox" I take you on
   "The Journey of Rewriting a Python Tool with more than 10 Million Monthly
