@@ -21,6 +21,7 @@ June 2023
   Downloads".  
   ([Info](https://www.opensouthcode.org/conferences/opensouthcode2023/program/proposals/528))
   ([Slides](/data/behind.the.scenes.of.tox.malaga.pdf))
+  ([Video](https://www.youtube.com/watch?v=1PBtT7T8c9M))
 
 April 2023
 : **PyCon DE & PyData Berlin** - In "Behind the Scenes of tox" I take you on
