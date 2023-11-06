@@ -9,9 +9,21 @@ I especially enjoy giving lightning and thunder talks.
 I want to thank both the **Google Developer Group** in Regensburg and
 **Python Ireland** for giving me a chance to become a more experienced speaker.
 
+November 2023
+: **Ubuntu Summit 2023 in Riga** - In "Behind the Scenes of tox" I take you on the
+  journey of "Rewriting a Tool with more than 10 Million Monthly Downloads".  
+  ([Info](https://events.canonical.com/event/31/contributions/272/))
+  ([Slides](/data/behind.the.scenes.of.tox.riga.pdf))
+
+October 2023
+: **PyGotham 2023** - In "Behind the Scenes of tox" I take you on the
+  journey of "Rewriting a Tool with more than 10 Million Monthly Downloads".  
+  ([Info](https://2023.pygotham.tv/talks/behind-the-scenes-of-tox-the-journey-of-rewriting-a-python-tool-with-over-10-million-monthly-downloads/))
+  ([Slides](/data/behind.the.scenes.of.tox.pygotham.pdf))
+
 September 2023
 : **PyCon CZ 23 in Prague** - In "Behind the Scenes of tox" I take you on the
-  joureny of "Rewriting a Tool with more than 10 Million Monthly Downloads".  
+  journey of "Rewriting a Tool with more than 10 Million Monthly Downloads".  
   ([Info](https://cz.pycon.org/2023/program/talks/109/))
   ([Slides](/data/behind.the.scenes.of.tox.prague.pdf))
 
