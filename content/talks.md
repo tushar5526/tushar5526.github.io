@@ -14,6 +14,7 @@ November 2023
   journey of "Rewriting a Tool with more than 10 Million Monthly Downloads".  
   ([Info](https://events.canonical.com/event/31/contributions/272/))
   ([Slides](/data/behind.the.scenes.of.tox.riga.pdf))
+  ([Video](https://www.youtube.com/watch?v=e4WDp8rQPZA))
 
 October 2023
 : **PyGotham 2023** - In "Behind the Scenes of tox" I take you on the
