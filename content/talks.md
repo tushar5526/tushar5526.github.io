@@ -9,6 +9,12 @@ I especially enjoy giving lightning and thunder talks.
 I want to thank both the **Google Developer Group** in Regensburg and
 **Python Ireland** for giving me a chance to become a more experienced speaker.
 
+February 2023
+: **Stockholm Python User Group** - In "Behind the Scenes of tox" I take you on the
+  journey of "Rewriting a Tool with more than 10 Million Monthly Downloads".  
+  ([Info](https://www.meetup.com/pysthlm/events/299028643/))
+  ([Slides](/data/behind.the.scenes.of.tox.riga.pdf))
+
 November 2023
 : **Ubuntu Summit 2023 in Riga** - In "Behind the Scenes of tox" I take you on the
   journey of "Rewriting a Tool with more than 10 Million Monthly Downloads".  
