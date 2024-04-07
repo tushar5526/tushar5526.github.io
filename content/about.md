@@ -3,17 +3,17 @@ title: "About Me"
 # date: 2021-05-10T15:53:37+02:00
 ---
 
-I am a software developer with a passion for
+I am Tushar. 
 
-- Python
-- Linux
-- Open Source
+- I currrently work at [Samagra Governance](https://tech.samagragovernance.in) as a *Backend & DevOps Engineer*, building solutions for better governance. 
 
-I spend a good amount of my spare time
+- *Before this, I worked as an*
+    - [MLH Fellow - Fall Batch'23](https://fellowship.mlh.io)
+    - [Processing Fellow](https://medium.com/processing-foundation/announcing-google-summer-of-code-2022-projects-and-a-few-more-77043ab4d0b4)  
+- *I am also part of* 
+    - [GitHub Campus Expert](https://githubcampus.expert) 🚩
+    - [DSF Fellow](https://www.djangoproject.com/foundation/minutes/2024/mar/14/dsf-board-monthly-meeting/) owing to my community contributions at [Djangonaut Space](https://djangonaut.space)
 
-- as a maintainer of [Flask-Reuploaded](https://github.com/jugmac00/flask-reuploaded)
-- as an admirer of [tox](https://github.com/tox-dev/tox)
-- as a preserver of [Morepath](https://github.com/morepath)
-- as an apprentice of [Zope](https://github.com/zopefoundation/Zope)
 
-Additionally, I have also contributed to meanwhile more than 300 other open source projects.
+*I 💚 the OpenSource community, focussing on giving back and learning from the awesome people in it!*
+

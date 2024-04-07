@@ -1,6 +1,6 @@
-baseURL = "https://jugmac00.github.io"
+baseURL = "https://tushar5526.github.io"
 languageCode = "en-us"
-title = "Jürgen Gmach"
+title = "Tushar Gupta"
 theme = "PaperMod"
 
 [params]
@@ -8,20 +8,18 @@ defaultTheme = "auto"
 
 # Shown on the home page
 socialIcons = [
-  { name = "email", url = "mailto:juergen.gmach@googlemail.com" },
-  { name = "github", url = "https://github.com/jugmac00" },
-  { name = "twitter", url = "https://twitter.com/jugmac00" },
-  { name = "mastodon", url = "https://fosstodon.org/@jugmac00" },
-  { name = "youtube", url = "https://www.youtube.com/channel/UC_Jpu61dpHkxiCbTNQkKYrg" },
-  { name = "python", url = "https://discuss.python.org/u/jugmac00/summary" },
-  { name = "stackoverflow", url = "https://stackoverflow.com/users/672833/j-g"},
-  { name = "linkedin", url="https://www.linkedin.com/in/j%C3%BCrgen-gmach-b24363226/"},
+  { name = "email", url = "mailto:codingid6+portfolio@gmail.com" },
+  { name = "github", url = "https://github.com/tushar5526" },
+  { name = "twitter", url = "https://twitter.com/tushar5526" },
+  { name = "stackoverflow", url = "https://stackoverflow.com/users/12409303/tushar-gupta"},
+  { name = "linkedin", url="https://www.linkedin.com/in/tushar55"},
+  { name = "other", url="https://drive.google.com/file/d/1ziGn9xNbM-YuRvx5PzloPnyeyp2H5MqI/view?usp=sharing" }
 ]
 
 # Configure the home page
 [params.profileMode]
 enabled = true
-title = "Hi, I'm Jürgen."
+title = "Hi, I'm Tushar."
 subtitle = "Say hello to me at various places on the internet."
 
 # configure navigation
@@ -45,20 +43,6 @@ identifier = "til"
 name = "today-i-learned"
 title = "til"
 url = "/til/"
-
-[[menu.main]]
-weight = 3
-identifier = "talks"
-name = "talks"
-title = "talks"
-url = "/talks/"
-
-[[menu.main]]
-weight = 4
-identifier = "hiring"
-name = "hiring"
-title = "hiring"
-url = "/hiring/"
 
 [[menu.main]]
 weight = 5
