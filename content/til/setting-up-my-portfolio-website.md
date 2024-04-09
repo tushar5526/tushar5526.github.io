@@ -9,10 +9,8 @@ tags: ["website", "blogging", "portfolio"]
 
 ### spoiler: sparse files / holes in a file
 
-I have been planning to setup a blog / portfolio website for quite a time now, basically I wanted to talk about my noob Opensource contributions - and wanted to document few that I found really interesting and loved solving. 
+I was recently going through the book *The Linux Programming Interface* and came across the concept of sparse files. Files are stored on multiple blocks on a disk and sparse files is a smart optimisation that skips allocating disk block if there is no data to be stored. 
 
-I was looking for a very minimalistic setup to setup this website - basically I didn't wanted to spend anytime coding a Responsive frontend in HTML, didn't wanted to worry about managing any server to deploy my website and an easy solution that just lets me focus on blogging primarily. 
+You can create holes in your files by moving the file pointer `n` bytes ahead than the actual size and then write some random data to it.
 
-My main motivations to finally get this website up were the constant nudges I have got from my friends to blog and then finding [mrkaran.dev](https://mrkaran.dev/) which is made using [zola](https://www.getzola.org/). I 🍴ed the repo and it was quite easy to edit everything. I will be playing around with css a bit to give it a more minimalistic look, but I am happy with the current settings. 
-
-I intend to use this platform to document my thoughts and work. You can expect mini-blogs where I discuss specific pull requests (PRs) I've made to open-source projects and share my experiences while traveling or trying out new things. 😉
+TODO: add a small C snippet here on how to make sparse files. 
