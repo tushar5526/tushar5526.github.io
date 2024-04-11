@@ -45,6 +45,14 @@ title = "til"
 url = "/til/"
 
 [[menu.main]]
+weight = 2
+identifier = "projects-and-oss"
+name = "projects-and-oss"
+title = "projects-and-oss"
+url = "/projects-and-oss/"
+
+
+[[menu.main]]
 weight = 5
 identifier = "tags"
 name = "tags"
@@ -53,3 +61,5 @@ url = "/tags/"
 
 [taxonomies]
   tag = "tags"
+
+[fuse]

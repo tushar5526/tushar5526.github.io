@@ -1,6 +1,6 @@
 ---
-title: Create files bigger than available space 😱
-date: "2023-08-06T16:34:25+05:30"
+title: Creating files bigger than available disk space!
+date: "2024-04-06T16:34:25+05:30"
 type: "post"
 description: "Sample Blog - Setting up a minimalistic blogging/personal website"
 in_search_index: true
