@@ -4,7 +4,7 @@ date: "2024-04-06T16:34:25+05:30"
 type: "post"
 description: "Sample Blog - Setting up a minimalistic blogging/personal website"
 in_search_index: true
-tags: ["website", "blogging", "portfolio"]
+tags: ["system-programming", "sparse-files"]
 ---
 
 ### spoiler: sparse files / holes in a file
