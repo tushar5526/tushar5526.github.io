@@ -2,16 +2,16 @@
 title: Creating files bigger than available disk space!
 date: "2024-04-06T16:34:25+05:30"
 type: "post"
-description: "Sample Blog - Setting up a minimalistic blogging/personal website"
+description: "Holes in files"
 in_search_index: true
 tags: ["system-programming", "sparse-files"]
 ---
 
-### spoiler: sparse files / holes in a file
+### spoiler: sparse files/holes in a file
 
-I was recently going through the book *The Linux Programming Interface* and came across the concept of sparse files. Files are stored on multiple blocks on a disk and sparse files is a smart optimisation that skips allocating disk block if there is no data to be stored. 
+I was recently going through the book *The Linux Programming Interface* and came across the concept of sparse files. Files are stored on multiple blocks on a disk and sparse files is a smart optimization that skips allocating disk block if there is no data to be stored. 
 
-You can create holes in your files by moving the file pointer `n` bytes ahead than the actual size and then write some random data to it.
+You can create holes in your files by moving the file pointer `n` bytes ahead of the actual size and then writing some random data to it.
 
 ```c
 #include <stdio.h>
