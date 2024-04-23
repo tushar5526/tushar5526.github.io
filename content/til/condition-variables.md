@@ -7,9 +7,6 @@ in_search_index: true
 tags: ["system-programming", "sparse-files"]
 ---
 
-
-### spoiler: sparse files/holes in a file
-
 I was a bit taken aback to come to know about `condition-variables` this late in my journey. Condition variables allow you to `wait` and `notify` other threads when a certain event occurs. I understood it best through an example. 
 
 Following is a code sample for `Producer-Consumer` problem using mutexes. 
