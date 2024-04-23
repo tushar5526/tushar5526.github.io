@@ -4,7 +4,7 @@ date: "2024-04-23T16:34:25+05:30"
 type: "post"
 description: "Condition Variables to write efficient code"
 in_search_index: true
-tags: ["system-programming", "sparse-files"]
+tags: ["system-programming", "threads", "python"]
 ---
 
 I was a bit taken aback to come to know about `condition-variables` this late in my journey. Condition variables allow you to `wait` and `notify` other threads when a certain event occurs. I understood it best through an example. 
