@@ -13,7 +13,7 @@ socialIcons = [
   { name = "twitter", url = "https://twitter.com/tushar5526" },
   { name = "stackoverflow", url = "https://stackoverflow.com/users/12409303/tushar-gupta"},
   { name = "linkedin", url="https://www.linkedin.com/in/tushar55"},
-  { name = "other", url="https://drive.google.com/file/d/1ziGn9xNbM-YuRvx5PzloPnyeyp2H5MqI/view?usp=sharing" }
+  { name = "other", url="https://drive.google.com/file/d/1Sask75Pd8b-CulTPGIALXDYR0bGi3UBh/view?usp=sharing" }
 ]
 
 # Configure the home page
