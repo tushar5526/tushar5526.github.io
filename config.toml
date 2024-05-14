@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Tushar Gupta"
 theme = "PaperMod"
 
+googleAnalytics = "G-B043Q33E0E"
+
 [params]
 defaultTheme = "auto"
 
