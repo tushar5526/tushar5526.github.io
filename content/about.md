@@ -5,7 +5,7 @@ title: "About Me"
 
 I am Tushar. 
 
-- I currrently work at [Samagra Governance](https://tech.samagragovernance.in) as a *Backend & DevOps Engineer*, building solutions for better governance. 
+- I currrently work at [Canonical](https://canonical.com/) in the Launchpad team, maintaining and building the build infrastructure and related services. Previously, I was at  [Samagra Governance](https://tech.samagragovernance.in) as a *Backend & DevOps Engineer*, building solutions for better governance. 
 
 - *Before this, I worked as an*
     - [MLH Fellow - Fall Batch'23](https://fellowship.mlh.io)
