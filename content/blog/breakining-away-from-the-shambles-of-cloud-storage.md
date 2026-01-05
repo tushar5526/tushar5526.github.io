@@ -15,7 +15,7 @@ Esentially I need to keep paying a subscription fees just to get more storage an
 
 I know icloud is more than just a "storage", and there are tons of extra features that such solutions provide, but paying a recurring fees for hardware made me wonder if there is another way out, and I knew people in the OSS community would have decided to say "frick you" to these corporates giants and would have probably created something helpful. 
 
-I was right and found Immich and NextCloud. I researched a bit more and as my primary focus was around storage and backups for photos, Immich felt like a better fit. 
+I was right and found [Immich](https://github.com/immich-app/immich) and [NextCloud](https://github.com/nextcloud). I researched a bit more and as my primary focus was around storage and backups for photos, Immich felt like a better fit. 
 
 As I finally had an actual problem at hand to solve, this was a good motivation for me to finally self host. Another area that I have been dwindling about for quite long. 
 
