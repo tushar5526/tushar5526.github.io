@@ -9,9 +9,9 @@ tags: ["immich", "self-hosting", "tailscale", "opensource"]
 
 One bright sunny day, while I was riding my bike to my friend's house, my phone fell out of my pocket. I was super tense, thinking all my photos would be lost. Thankfully, a good samaritan found the phone and returned it to me.
 
-Until that point, I had been procrastinating setting up backups for my phone, but that incident was the inflection point. I finally decided to check out the pricing for [iCloud](https://www.apple.com/icloud/) storage—and it was outrageous! 
+Until that point, I had been procrastinating setting up backups for my phone, but that incident was the inflection point. I finally decided to check out the pricing for [iCloud](https://www.apple.com/icloud/) storage -- and it was outrageous! 
 
-Essentially, I would need to keep paying a subscription fee just to get more storage—and that too for my entire life.
+Essentially, I would need to keep paying a subscription fee just to get more storage -- and that too for my entire life.
 
 I know iCloud is more than just "storage," and there are tons of extra features that such solutions provide. But paying a recurring fee for hardware made me wonder if there was another way out. I knew people in the OSS community would have decided to say "frick you" to these corporate giants and would have probably created something helpful. 
 
@@ -36,9 +36,9 @@ Next, I wanted to make this setup more secure, as the traffic was being sent as 
 Also, I wanted to add some firewall rules to prevent exposing the Immich server to the entire local network. 
 
 
-For SSL, I initially thought of setting up self-signed SSL certificates locally and using them to enable SSL communications. However, there was a better solution in place—[Tailscale](https://tailscale.com/).
+For SSL, I initially thought of setting up self-signed SSL certificates locally and using them to enable SSL communications. However, there was a better solution in place -- [Tailscale](https://tailscale.com/).
 
-Tailscale is an awesome piece of software that allows you to create a VPN network and provides a secure way to expose your applications. TLS was solved out of the box by Tailscale for me, and it also provided a domain name that I could use even if the wifi router rotates the local IP. (I really want to understand how Tailscale works—but for now, let's not lose our focus.)
+Tailscale is an awesome piece of software that allows you to create a VPN network and provides a secure way to expose your applications. TLS was solved out of the box by Tailscale for me, and it also provided a domain name that I could use even if the wifi router rotates the local IP. (I really want to understand how Tailscale works -- but for now, let's not lose our focus.)
 
 
 From my previous jobs, I was aware that if you `expose: 3003:3003` the port, Docker will create an iptables entry that allows traffic from all hosts to that port. Even adding custom [`ufw`](https://wiki.ubuntu.com/UncomplicatedFirewall) rules to restrict the traffic does not work.
