@@ -13,7 +13,7 @@ Until that point, I had been procrastinating setting up backups for my phone, bu
 
 Essentially, I would need to keep paying a subscription fee just to get more storage -- and that too for my entire life. (Someone bring back SD cards)
 
-I know iCloud is more than just "storage," and there are tons of extra features that such solutions provide including "High Availablity" (but really when was the last time your hard disk crashed?). Paying a recurring fee for hardware made me wonder if there was another way out. I was pretty sure that people in the OSS community would have decided to say "frick you" to these corporate giants and must have probably created something helpful.
+I know iCloud is more than just "storage," and there are tons of extra features that such solutions provide including "Fault Tolerance" (but really when was the last time your hard disk crashed?). Paying a recurring fee for hardware made me wonder if there was another way out. I was pretty sure that people in the OSS community would have decided to say "frick you" to these corporate giants and must have probably created something helpful.
 
 I was right and found [Immich](https://github.com/immich-app/immich) and [Nextcloud](https://github.com/nextcloud/server). I researched a bit more, and since my primary focus was on storage and backups for photos, Immich felt like a better fit.
 
